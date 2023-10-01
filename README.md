@@ -5,7 +5,7 @@
     sudo sh install.sh
 
 # Run:
-    Burp
+    burpsuite_pro_latest
     
 
 Notes: 
